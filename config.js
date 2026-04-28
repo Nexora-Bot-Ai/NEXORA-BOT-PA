@@ -4,6 +4,6 @@ module.exports = {
   AUTHOR: 'SOURAJIT TECH',
   DEPLOY_HOST: 'wolfxpair.xwolf.space',
   PANEL_HOST: 'wolfxpair.xwolf.space',
-  GITHUB_URL: 'https://github.com/Nexora-bot-Ai/NEXORA-BOT-PAIR',
+  GITHUB_URL: 'https://github.com/Nexora-bot-Ai/NEXORA-BOT-PA',
   PORT: process.env.PORT || 3000,
 };
